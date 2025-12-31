@@ -7,7 +7,7 @@ subtitle: Postdoctoral Researcher • Università degli Studi di Trieste & INFN 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_KA.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>Via Alfonso Valerio, 2</p>
